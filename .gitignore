@@ -1,0 +1,11 @@
+bin/
+obj/
+TestResults/
+.vs/
+.idea/
+*.user
+.DS_Store
+
+# файлы, которые создаёт программа при запуске
+*.csv
+data/
